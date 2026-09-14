@@ -1,0 +1,105 @@
+{
+  "spec": 3,
+  "version": "1.0.0",
+  "id": "taakoofficial.weatherly",
+  "display": {
+    "name": "Weatherly",
+    "description": "A Weatherly-inspired dark Raincord theme, adapted from system142857.",
+    "authors": [
+      {
+        "name": "TaakoOfficial"
+      },
+      {
+        "name": "mistycalpi",
+        "id": "1236215647310975016"
+      }
+    ]
+  },
+  "main": {
+    "type": "dark",
+    "semantic": {
+      "HEADER_PRIMARY": "#F4ECD9",
+      "HEADER_SECONDARY": "#AFC0CB",
+      "TEXT_NORMAL": "#F4ECD9",
+      "TEXT_MUTED": "#AFC0CB",
+      "MOBILE_TEXT_HEADING_PRIMARY": "#F4ECD9",
+      "INTERACTIVE_HOVER": "#F1E4C8",
+      "INTERACTIVE_ACTIVE": "#FFF5DF",
+      "INTERACTIVE_MUTED": "#7899AF",
+      "BACKGROUND_PRIMARY": "#0F1E2D",
+      "BACKGROUND_SECONDARY": "#162B3D",
+      "BACKGROUND_SECONDARY_ALT": "#1D3447",
+      "BACKGROUND_SURFACE_HIGH": "#1E3A50",
+      "CARD_BACKGROUND_DEFAULT": "#162B3D",
+      "BACKGROUND_TERTIARY": "#0D1D2C",
+      "BACKGROUND_ACCENT": "#C99143",
+      "BACKGROUND_FLOATING": "#162B3D",
+      "BACKGROUND_MOBILE_PRIMARY": "#0F1E2D",
+      "BACKGROUND_MOBILE_SECONDARY": "#162B3D",
+      "BACKGROUND_NESTED_FLOATING": "#1E3A50",
+      "BACKGROUND_MESSAGE_HOVER": "#122B40",
+      "BACKGROUND_MODIFIER_HOVER": "#1D3447",
+      "BACKGROUND_MODIFIER_ACTIVE": "#274B66",
+      "BACKGROUND_MODIFIER_SELECTED": "#274B66",
+      "BACKGROUND_MODIFIER_ACCENT": "#36546A",
+      "SCROLLBAR_THIN_THUMB": "#36546A",
+      "SCROLLBAR_THIN_TRACK": {
+        "type": "raw",
+        "value": "#162B3D",
+        "opacity": 0
+      },
+      "SCROLLBAR_AUTO_THUMB": "#7899AF",
+      "SCROLLBAR_AUTO_TRACK": "#162B3D",
+      "CHANNELTEXTAREA_BACKGROUND": "#162B3D",
+      "CHANNELS_DEFAULT": "#AFC0CB",
+      "TEXT_LINK": "#DDB86F",
+      "TEXT_DANGER": "#E2877D",
+      "KEYBOARD": "#0D1D2C",
+      "BG_BACKDROP": {
+        "type": "raw",
+        "value": "#050D15",
+        "opacity": 0.698
+      },
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": "#1E3A50",
+      "CHANNEL_ICON": "#AFC0CB",
+      "CHAT_BACKGROUND": "#0F1E2D",
+      "CARD_PRIMARY_BG": "#1E3A50"
+    },
+    "raw": {
+      "PRIMARY_500": "#C99143",
+      "PRIMARY_100": "#FFF5DF",
+      "PRIMARY_200": "#F1E4C8",
+      "PRIMARY_300": "#C99143",
+      "PRIMARY_360": "#DDB86F",
+      "PRIMARY_400": "#DDB86F",
+      "PRIMARY_600": "#162B3D",
+      "PRIMARY_630": "#162B3D",
+      "PRIMARY_660": "#1D3447",
+      "PRIMARY_700": "#1E3A50",
+      "PRIMARY_800": "#0D1D2C",
+      "BLACK_500": "#050D15B2",
+      "BRAND_260": "#F1E4C8",
+      "BRAND_360": "#DDB86F",
+      "BRAND_500": "#C99143",
+      "BRAND_560": "#DDB86F",
+      "YELLOW_300": "#DDB86F",
+      "GREEN_600": "#7899AF",
+      "RED_400": "#E2877D",
+      "WHITE_500": "#F4ECD9",
+      "GREEN_360": "#8EB4CA",
+      "PLUM_23": "#1E3A50",
+      "PLUM_20": "#0F1E2D",
+      "PLUM_18": "#0F1E2D",
+      "PLUM_17": "#162B3D",
+      "PLUM_16": "#274B66",
+      "PLUM_13": "#DDB86F",
+      "PLUM_10": "#AFC0CB",
+      "PLUM_3": "#F4ECD9",
+      "PLUM_9": "#F4ECD9"
+    }
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy"
+  }
+}
